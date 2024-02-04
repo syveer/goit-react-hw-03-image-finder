@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Hourglass } from 'react-loader-spinner';
-import styles from './Loader.css';
+import styles from './Loader.module.css';
 
 class Loader extends Component {
   render() {

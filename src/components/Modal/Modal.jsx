@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import styles from './Modal.css';
+import styles from './Modal.module.css';
 
 class Modal extends Component {
   componentDidMount() {

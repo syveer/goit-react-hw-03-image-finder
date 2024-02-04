@@ -4,7 +4,7 @@ import ImageGallery from './ImageGallery/ImageGallery.jsx';
 import Button from './Button/Button.jsx';
 import Modal from './Modal/Modal.jsx';
 import Loader from './Loader/Loader.jsx';
-import styles from './App.css';
+import styles from './App.module.css';
 import { fetchImages } from './Api/Api.jsx';
 
 class App extends Component {

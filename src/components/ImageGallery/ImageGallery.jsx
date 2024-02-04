@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import styles from './ImageGallery.css';
+import styles from './ImageGallery.module.css';
 
 const ImageGallery = ({ images, onImageClick }) => (
   <ul className={styles.ImageGallery}>
